@@ -1,6 +1,6 @@
 package chess;
 
-public class Horse extends ChessPiece{
+public class Horse extends ChessPiece {
     public Horse(String color) {
         super(color);
     }
